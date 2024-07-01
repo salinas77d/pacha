@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Cumpleañero Entregado</title>
+</head>
+<body>
+    <h1>Show cumpleañero entregado</h1>
+    <p>¡El show de cumpleaños ha sido entregado con éxito!</p>
+</body>
+</html>
